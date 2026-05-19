@@ -76,6 +76,3 @@ Redesigned website for a medical clinic focused on lead generation and conversio
 - Mobile-first responsive grid
 
 ---
-**Designed by**: [Your Name]  
-**Date**: April 2026  
-**Contact**: [Your Email/LinkedIn]
